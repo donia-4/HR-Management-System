@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1724379351 source:d:\dr mahmoud projects\hr management system\benefit.cpp
+	"benefit.h"
+
+1724379351 d:\dr mahmoud projects\hr management system\benefit.h
+	<string>
+
+1724398211 source:d:\dr mahmoud projects\hr management system\employee.cpp
+	"employee.h"
+
+1724398178 d:\dr mahmoud projects\hr management system\employee.h
+	<string>
+	<iostream>
+	<algorithm>
+	"benefit.h"
+
+1724321833 source:d:\dr mahmoud projects\hr management system\healthbenefit.cpp
+	"HealthBenefit.h"
+
+1724314173 d:\dr mahmoud projects\hr management system\healthbenefit.h
+	"benefit.h"
+
+1724393097 source:d:\dr mahmoud projects\hr management system\hourlyemployee.cpp
+	"hourlyemployee.h"
+
+1724393070 d:\dr mahmoud projects\hr management system\hourlyemployee.h
+	"employee.h"
+
+1724326695 source:d:\dr mahmoud projects\hr management system\dentalbenefit.cpp
+	"DentalBenefit.h"
+
+1724393776 d:\dr mahmoud projects\hr management system\dentalbenefit.h
+	"benefit.h"
+	<string>
+
+1724398299 source:d:\dr mahmoud projects\hr management system\manageremployee.cpp
+	"ManagerEmployee.h"
+
+1724398249 d:\dr mahmoud projects\hr management system\manageremployee.h
+	"salariedEmployee.h"
+
+1724398242 d:\dr mahmoud projects\hr management system\salariedemployee.h
+	"employee.h"
+
+1724398328 source:d:\dr mahmoud projects\hr management system\commissionemployee.cpp
+	"CommissionEmployee.h"
+
+1724398266 d:\dr mahmoud projects\hr management system\commissionemployee.h
+	"employee.h"
+
+1724398274 source:d:\dr mahmoud projects\hr management system\salariedemployee.cpp
+	"salariedEmployee.h"
+
+1724420908 source:d:\dr mahmoud projects\hr management system\department.cpp
+	"Department.h"
+	"salariedEmployee.h"
+	"ManagerEmployee.h"
+	"CommissionEmployee.h"
+	"hourlyemployee.h"
+	"HealthBenefit.h"
+	"DentalBenefit.h"
+
+1724420055 d:\dr mahmoud projects\hr management system\department.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"employee.h"
+
+1724419821 d:\dr mahmoud projects\hr management system\hrsystem.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Department.h"
+	"salariedEmployee.h"
+	"ManagerEmployee.h"
+	"hourlyemployee.h"
+	"CommissionEmployee.h"
+	"HealthBenefit.h"
+	"DentalBenefit.h"
+
+1724421020 source:d:\dr mahmoud projects\hr management system\main.cpp
+	<iostream>
+	"HRSystem.h"
+
+1724419832 source:d:\dr mahmoud projects\hr management system\hrsystem.cpp
+	"HRSystem.h"
+

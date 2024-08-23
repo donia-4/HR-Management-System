@@ -1,0 +1,112 @@
+Department ID:
+1
+Department Name:
+Human Resources
+Employees:
+101
+John Doe
+john.doe@example.com
+123-456-7890Job
+Salaried Employee
+5600
+Benefit List: 
+Health Benefit
+2000
+80%
+Premium Health Plan
+
+102
+Jane Smith
+jane.smith@example.com
+123-456-7891
+Manager Employee
+12000
+1000
+Benefit List: 
+Health Benefit
+3000
+90%
+Executive Health Plan
+
+103
+Mark Johnson
+mark.johnson@example.com
+123-456-7892
+Commission Employee
+64
+22
+Benefit List: 
+Dental Benefit:
+1000
+70%
+Basic Dental Plan
+
+104
+Lucy Brown
+lucy.brown@example.com
+123-456-7893
+Hourly Employee
+30
+100
+Benefit List:
+Health Benefit
+1500
+75%
+Standard Health Plan
+
+--------------------------------------------------
+Department ID:
+2
+Department Name:
+Sales
+Employees:
+201
+Emma White
+emma.white@example.com
+234-567-8901
+Salaried Employee
+11000
+Benefit List: 
+Dental Benefit
+2000
+80%
+Comprehensive Dental Plan
+
+202
+Liam Green
+liam.green@example.com
+234-567-8902
+Manager Employee
+9000
+1000
+Benefit List:
+Health Benefit
+3500
+95%
+Premium Executive Plan
+
+203
+Olivia Black
+olivia.black@example.com
+234-567-8903
+Commission Employee
+50
+34
+Benefit List:
+Dental Benefit
+1200
+75%
+Enhanced Dental Plan
+
+204
+William Blue
+william.blue@example.com
+234-567-8904
+Hourly Employee
+45
+66
+Benefit List: 
+Health Benefit
+1800
+85%
+Advanced Health Plan
